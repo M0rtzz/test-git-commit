@@ -1,5 +1,7 @@
-# Changelog
+## <small>1.0.1 (2024-04-09)</small>
 
-All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
+* chore(release): 1.0.1 ([78b214f](https://github.com/M0rtzz/test-git-commit/commit/78b214f))
+* 🎉 init: init commit ([8f752cc](https://github.com/M0rtzz/test-git-commit/commit/8f752cc))
 
-## 1.0.1 (2024-04-09)
+
+
