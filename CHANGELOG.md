@@ -1,8 +1,9 @@
-# Changelog
+## <small>1.0.7 (2024-04-09)</small>
 
-All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
+* chore(release): 1.0.7 ([188b747](https://github.com/M0rtzz/test-git-commit/commit/188b747))
+* 📝 docs(CHANGELOG.md): automatic update ([5d00ad9](https://github.com/M0rtzz/test-git-commit/commit/5d00ad9))
 
-## [1.0.7](https://github.com/M0rtzz/test-git-commit/compare/v1.0.6...v1.0.7) (2024-04-09)
+
 
 ## <small>1.0.6 (2024-04-09)</small>
 
@@ -52,3 +53,6 @@ All notable changes to this project will be documented in this file. See [commit
 * 📝 docs(CHANGELOG.md): automatic update ([3492c01](https://github.com/M0rtzz/test-git-commit/commit/3492c01))
 * 📝 docs(CHANGELOG.md): automatic update ([750865c](https://github.com/M0rtzz/test-git-commit/commit/750865c))
 * 📝 docs(CHANGELOG.md): automatic update ([341b4be](https://github.com/M0rtzz/test-git-commit/commit/341b4be))
+
+
+
