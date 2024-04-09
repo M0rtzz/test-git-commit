@@ -1,8 +1,10 @@
-# Changelog
+## <small>1.0.4 (2024-04-09)</small>
 
-All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
+* chore(release): 1.0.4 ([7f09a57](https://github.com/M0rtzz/test-git-commit/commit/7f09a57))
+* 📝 docs(CHANGELOG.md): automatic update ([42cdaf9](https://github.com/M0rtzz/test-git-commit/commit/42cdaf9))
+* Delete .cz-config.js ([80b3ddf](https://github.com/M0rtzz/test-git-commit/commit/80b3ddf))
 
-## [1.0.4](https://github.com/M0rtzz/test-git-commit/compare/v1.0.3...v1.0.4) (2024-04-09)
+
 
 ## <small>1.0.3 (2024-04-09)</small>
 
@@ -29,3 +31,6 @@ All notable changes to this project will be documented in this file. See [commit
 * 📝 docs(CHANGELOG.md): automatic update ([3492c01](https://github.com/M0rtzz/test-git-commit/commit/3492c01))
 * 📝 docs(CHANGELOG.md): automatic update ([750865c](https://github.com/M0rtzz/test-git-commit/commit/750865c))
 * 📝 docs(CHANGELOG.md): automatic update ([341b4be](https://github.com/M0rtzz/test-git-commit/commit/341b4be))
+
+
+
