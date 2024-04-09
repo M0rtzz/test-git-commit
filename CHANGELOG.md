@@ -1,8 +1,10 @@
-# Changelog
+## <small>1.0.6 (2024-04-09)</small>
 
-All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
+* chore(release): 1.0.6 ([80e245a](https://github.com/M0rtzz/test-git-commit/commit/80e245a))
+* 📝 docs(CHANGELOG.md): automatic update ([0872f5c](https://github.com/M0rtzz/test-git-commit/commit/0872f5c))
+* 🙈 ignore: add .gitignore ([ab95a38](https://github.com/M0rtzz/test-git-commit/commit/ab95a38))
 
-## [1.0.6](https://github.com/M0rtzz/test-git-commit/compare/v1.0.5...v1.0.6) (2024-04-09)
+
 
 ## <small>1.0.5 (2024-04-09)</small>
 
@@ -44,3 +46,6 @@ All notable changes to this project will be documented in this file. See [commit
 * 📝 docs(CHANGELOG.md): automatic update ([3492c01](https://github.com/M0rtzz/test-git-commit/commit/3492c01))
 * 📝 docs(CHANGELOG.md): automatic update ([750865c](https://github.com/M0rtzz/test-git-commit/commit/750865c))
 * 📝 docs(CHANGELOG.md): automatic update ([341b4be](https://github.com/M0rtzz/test-git-commit/commit/341b4be))
+
+
+
